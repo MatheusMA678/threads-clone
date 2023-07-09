@@ -27,7 +27,7 @@ export default function RootLayout() {
         }}
       >
         <Tabs.Screen
-          name="home/index"
+          name="index"
           options={{
             tabBarIcon: ({ color }) => <FeedIcon color={color} />,
           }}
